@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Debdutta_ki_MKC",
+    "username": "ROBOT",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a fuck boy",
-        "suck my dick",
-        "I like to fuck Debdutta!"
+        "I help other players",
+        "Please don't kill me",
+        "BOT ONLINE"
       ]
     },
     "chat-log": true,
