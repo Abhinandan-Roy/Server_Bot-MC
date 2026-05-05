@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dawnlands-eflR.aternos.me",
-    "port": 13220,
-    "version": "1.21.11",
+    "ip": "lifelessXsmp.aternos.me",
+    "port": 21318,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
